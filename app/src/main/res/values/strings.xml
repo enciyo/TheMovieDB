@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheMovieDB</string>
+    <string name="cancel">Cancel</string>
+    <string name="movies">Movies</string>
+    <string name="people">People</string>
+    <string name="tv">TV</string>
+</resources>
